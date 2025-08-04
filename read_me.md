@@ -1,1 +1,0 @@
-hello guys download this and then go in the folder and find MAIN_JHP'S_COOL_CALC.py then press the command bar it should say Downloads > JHP'S_COOL_CALC and press it and type cmd then type python MAIN_JHP'S_COOL_CALC.py then press enter and thats basically it no requirements! :D
